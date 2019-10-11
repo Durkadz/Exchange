@@ -14,7 +14,7 @@ Foreach($group In $groups){
 }
 
 
-
+// The script obtain all distribution groups, also The script export the result on a txt file.
     
         
     
